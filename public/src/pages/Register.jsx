@@ -89,8 +89,8 @@ export default function Register() {
       <FormContainer>
         <form action="" onSubmit={(event) => handleSubmit(event)}>
           <div className="brand">
-            <img src={Logo} alt="logo" />
-            <h1>Kuvaka Chatroom</h1>
+        
+            <h1>WeChat</h1>
           </div>
           <input
             type="text"
